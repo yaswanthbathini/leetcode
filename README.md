@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/yaswanthbathini/leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/yaswanthbathini/leetcode/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -26,4 +27,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/yaswanthbathini/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/yaswanthbathini/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/yaswanthbathini/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
