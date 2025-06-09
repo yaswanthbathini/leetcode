@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/yaswanthbathini/leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/yaswanthbathini/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yaswanthbathini/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/yaswanthbathini/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/yaswanthbathini/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/yaswanthbathini/leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/yaswanthbathini/leetcode/tree/master/0367-valid-perfect-square) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/yaswanthbathini/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Recursion
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/yaswanthbathini/leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/yaswanthbathini/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/yaswanthbathini/leetcode/tree/master/0326-power-of-three) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/yaswanthbathini/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -72,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yaswanthbathini/leetcode/tree/master/0020-valid-parentheses) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/yaswanthbathini/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Simulation
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/yaswanthbathini/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
